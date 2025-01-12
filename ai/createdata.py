@@ -32,4 +32,4 @@ print(df)
 # 데이터 생성
 # df.to_csv("labels_data.csv", index=False)
 
-# 파일 잘못 올림
+# file issue
