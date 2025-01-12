@@ -28,3 +28,6 @@ for i, keyword in enumerate(keywords):
 # 불필요한 열 삭제
 df = df.drop(columns=["레이블"])
 print(df)
+
+# 데이터로 만들기
+# df.to_csv("labels_data.csv", index=False)
