@@ -29,5 +29,5 @@ for i, keyword in enumerate(keywords):
 df = df.drop(columns=["레이블"])
 print(df)
 
-# 데이터로 만들기
+# 데이터 생성
 # df.to_csv("labels_data.csv", index=False)
