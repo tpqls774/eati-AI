@@ -74,3 +74,5 @@ print(df)
 print("\n가게별 키워드:")
 for store, keywords in store_keywords.items():
     print(f"{store}: {keywords}")
+
+# 수정 예정
